@@ -1,5 +1,6 @@
 # Guess A Number 
-![poster](./img/GuessGame.png )
+<img src="./img/GuessGame.png" style="width:400px;" align="Center"/>
+
 
 ## Table of Contents
 [Guess A Number](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#Table-of-Contents)
