@@ -14,6 +14,7 @@ ___
 **Note:**  vijay is given only 10 chances to guess the number and if vijay wins the game then return true otherwise return false.
 
 
+
 # Solution
 ~~~python
 """Guess the Number Try to guess the secret number based on hints."""
@@ -53,3 +54,5 @@ if guess == secretNumber:
 else:
     print('Game over. The number I was thinking of was', secretNumber)
 ~~~
+
+replit - Click The [link] (https://replit.com/@profsathish/GuessANumberGame#main.py)
