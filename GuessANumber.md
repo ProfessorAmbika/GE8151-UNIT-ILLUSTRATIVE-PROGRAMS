@@ -4,7 +4,7 @@
 ## Table of Contents
 [Guess A Number]()
 
-- [Problem Statement]()
+- [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#problem-statement)
 - [Python Code]()
 - [Replit Link]()
 - [PythonTutor Link]()
