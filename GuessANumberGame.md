@@ -55,4 +55,4 @@ else:
     print('Game over. The number I was thinking of was', secretNumber)
 ~~~
 
-replit - Click The [link] (https://replit.com/@profsathish/GuessANumberGame#main.py)
+replit-https://replit.com/@profsathish/GuessANumberGame#main.py
