@@ -1,5 +1,5 @@
 # Guess A Number 
-<img src="./img/GuessGame.png" style="width:400px;" align="Center"/>
+<img src="./img/GuessGame.png" style="width:400px;" class="center"/>
 
 
 ## Table of Contents
