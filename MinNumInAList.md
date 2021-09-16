@@ -1,13 +1,11 @@
+# Minimum Number In a List
 ## Table of Contents
-[Guess A Number](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MiNumInAList.md#Table-of-Contents)
-
 - [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#problem-statement)
 - [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#python-code)
 - [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#replit-link)
 - [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#pythontutor-link)
 
 # Problem Statement
-### Minimum Number In a List
 **we will see  Python program to find the smallest number in a List.**
 ### For example
 - If the list is [15, 20, 10, 16] then the program should display number 10 as the output (the smallest number in the given list).
