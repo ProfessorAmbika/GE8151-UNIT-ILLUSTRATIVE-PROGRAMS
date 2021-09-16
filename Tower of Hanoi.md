@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-- [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#problem-statement)
-- [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#python-code)
-- [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#replit-link)
-- [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#pythontutor-link)
+- [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Tower%20of%20Hanoi.md#problem-statement)
+- [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Tower%20of%20Hanoi.md#python-code)
+- [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Tower%20of%20Hanoi.md#replit-link)
+- [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Tower%20of%20Hanoi.md#pythontutor-link)
 
 ## Problem Statement
 
