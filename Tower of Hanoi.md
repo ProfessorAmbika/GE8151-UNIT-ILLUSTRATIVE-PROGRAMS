@@ -2,14 +2,14 @@
 <img src="./img/TOHExample.gif" style="width:300px;" class="center"/>
 
 ## Table of Contents
-___
+
 - [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#problem-statement)
 - [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#python-code)
 - [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#replit-link)
 - [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/MinNumInAList.md#pythontutor-link)
 
 ## Problem Statement
----
+
 **The mission is to move all the disks to some another tower without violating the sequence of arrangement.**
 _A few rules to be followed for Tower of Hanoi are_
 
@@ -20,7 +20,7 @@ _A few rules to be followed for Tower of Hanoi are_
 **Tower of Hanoi puzzle with n disks can be solved in minimum 2n−1 steps**
 
 ## Python Code
-___
+
 ```python
 # Tower of Hanoi
 
@@ -68,7 +68,7 @@ https://cutt.ly/TowerOfHanoi
 
 
 ## PythonTutor Link
----
+
 
 https://tinyurl.com/KiTETowerOfHanoi
 
