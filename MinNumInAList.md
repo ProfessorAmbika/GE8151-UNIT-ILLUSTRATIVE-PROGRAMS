@@ -14,7 +14,7 @@
 
 ## Python Code
 ~~~python
-print("find minimum of two numbers")
+#find minimum of two numbers
 # a and b are parameters''
 
 
@@ -31,7 +31,7 @@ print("Minimum number is ", find_min(a, b))
 ~~~
 
 ~~~python
-print("\nfind minimum of three numbers")
+#find minimum of three numbers
 
 def find_min(a, b):
     if a < b:
@@ -56,9 +56,7 @@ print("Minimum number is ", min_of_three(a, b, c))
 
 
 ~~~python
-import Min2Num
-import Min3Num
-print("\nfind minimum of a list")
+# find minimum of a list
 def min_of_list(aList):
     if not aList:
         return None
