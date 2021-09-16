@@ -2,19 +2,19 @@
 <img src="./img/Insert_Play_Card_Example.png" style="width:400px;" class="center"/>
 
 ## Table of Contents
-___
-- [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#problem-statement)
-- [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#python-code)
-- [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#replit-link)
-- [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/GuessANumber.md#pythontutor-link)
+
+- [Problem Statement](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Insert%20a%20card%20in%20a%20list%20of%20sorted%20cards.md#problem-statement)
+- [Python Code](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Insert%20a%20card%20in%20a%20list%20of%20sorted%20cards.md#python-code)
+- [Replit Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Insert%20a%20card%20in%20a%20list%20of%20sorted%20cards.md#replit-link)
+- [PythonTutor Link](https://github.com/Professor-Sathish/GE8151-UNIT-ILLUSTRATIVE-PROGRAMS/blob/master/Insert%20a%20card%20in%20a%20list%20of%20sorted%20cards.md#pythontutor-link)
 
 ## Problem Statement
-___
+
 **Ramesh want to insert the new cards into the sorted cards**
 * Insert a card must be in correct position
 
 ## Python Code
-___
+
 ```python
 order = {
     'A': 1, '2': 2, '3': 3, '4': 4,
@@ -41,14 +41,14 @@ print(deck)
 
 ```
 ## Replit Link
-___
+
 https://cutt.ly/InsertACard
 
 <img src=".\img\InsertACard.png" style="width:100px;"/>
 
 
 ## PythonTutor Link
-___
+
 
 https://cutt.ly/InsertACardVisual
 
